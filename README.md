@@ -8,7 +8,6 @@
   - [Credits](#credits)
   - [GitHub](#github)
   - [Features](#features)
-  - [Tests](#tests)
 
 ## Description
 
